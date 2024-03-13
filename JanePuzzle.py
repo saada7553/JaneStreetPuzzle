@@ -52,7 +52,7 @@ def calc():
         curr = (i * 4)
         res *= curr
     return res
-num_instructions = 122145247909 / 3
+num_instructions = (122145247909 / 3) / 5
  
 with open('/Users/saadata/Desktop/puzzleSolution5.txt', 'w') as f: 
     f.write('')
